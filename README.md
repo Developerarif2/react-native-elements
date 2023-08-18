@@ -198,6 +198,16 @@ Do you use React Native Elements in production? If so, consider supporting this 
 
 
 
+
+
+
+
+
+
+
+
+
+
 (https://opencollective.com/react-native-elements/sponsor/0/avatar)](https://opencollective.com/react-native-elements/sponsor/15/website)
 
 
