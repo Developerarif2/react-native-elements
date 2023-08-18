@@ -198,6 +198,7 @@ Do you use React Native Elements in production? If so, consider supporting this 
 
 [![React Native Elements Backer](https://opencollective.com/react-native-elements/sponsor/19/avatar)](https://opencollective.com/react-native-elements/sponsor/19/website)
 
+
+
+elements/sponsor/11/website)
 [![React Native Elements Backer](https://opencollective.com/react-native-elements/sponsor/12/avatar)](https://opencollective.com/react-native-elements/sponsor/12/website)
-
-
